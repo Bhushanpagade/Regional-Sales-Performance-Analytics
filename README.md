@@ -10,7 +10,7 @@
 
 > Replace the image below with your uploaded dashboard screenshot.
 
-![Regional Sales Performance Analytics](Images/Regional%20Sales%20Performance%20Analytics.png)
+![Regional Sales Performance Analytics](Regional Sales Performance Analytics.png)
 
 ---
 
