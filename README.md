@@ -8,9 +8,7 @@
 
 # 📷 Dashboard Preview
 
-> Replace the image below with your uploaded dashboard screenshot.
-
-![Regional Sales Performance Analytics](Regional Sales Performance Analytics.png)
+![Dashboard Preview](Regional Sales Performance Analytics.png)
 
 ---
 
